@@ -1,9 +1,7 @@
-<table align="center" border="0">
-<tr><td colspan=2 align="center">
+<p style="text-align:center;">
 
 # Social Drones
 
-</td></tr>
-</table>
+</p>
 
-<img src="docs/mysterio-controll-drones.png" align="center">
+<img src="docs/assets/mysterio-controll-drones.png" align="center">
