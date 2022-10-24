@@ -6,4 +6,4 @@
 </td></tr>
 </table>
 
-<img src="docs/mysterio-controll-drones.png" align="center"/>
+<img src="docs/mysterio-controll-drones.png" align="center">
